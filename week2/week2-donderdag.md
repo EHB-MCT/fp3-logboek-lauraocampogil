@@ -8,44 +8,33 @@
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
-_Instructie (schrijf in bullets waar je aan gewerkt hebt):_
-
-- Benoem de exacte onderdelen of bestanden waar je wijzigingen in hebt doorgevoerd (bijv. “In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).”).
-- Als je iets samen met een teamgenoot hebt gemaakt, vermeld dit er duidelijk bij.
-
-> **Activiteiten:**
->
-> - In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).
-> - Samen met [naam teamgenoot] de filterfunctionaliteit in `projects.js` opgezet om alleen lopende projecten te tonen.
+- Ik heb vandaag kleine problempjes gefixed na de feedback die werd gegeven door de user-testing
+- Ik heb vandaag de button 'alle producten' bij location.html veranderd naar 'kies producten' en erbij een icon geplaatst zodat mensen zien dat het over een filter gaat bij #product-fitler. Om de icon toe te voegen heb ik een div er rond gezet met class=product-filter en dan besproken door product-filter i.
+- Ik heb bij de language-selector de icon ook gefixed, hij had een probleem wanneer je de hamburgermenu open deed dan ging de icon naar beneden, het had geen fix positie waardoor ik dan bij de .language-selector i heb top:40%, pointer-events: none, toegevoegd.
+- Ik heb dan ook 2 fotos bij de about-us page geplaatst.
+- Ik wou vandaag ook de taal fixen, omdat bij het fetchen van data uit javascript komt de data enkel in het nederlands, het wordt niet vertaald waardoor ik dan een bericht heb doorgestuurd aan Joni.
 
 ---
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
-_Instructie (1 item per dag volstaat):_
-
-- Omschrijf kort je persoonlijke vooruitgang.
-- Dit kunnen technische skills zijn (bijv. een Figma design system setup gemaakt) of soft skills (bijv. team leren aansturen, medestudent gemotiveerd, presentatie gegeven, omgaan met feedback, ...).
+- Ik heb vandaag niets nieuws geleerd over code maar wel uit de design na de feedback
+- Ik heb wel veel uitgeleerd van de feedback dankzij haar feedback kunnen we de UI/UX van de app verbeteren.
 
 > **Nieuwe skills:**
 >
-> - Vandaag voor het eerst een gebruikerstest opgezet in Figma en feedback verwerkt in de wireframes.
-> - Of: Ik heb geleerd hoe ik mijn teamgenoten kan motiveren als ze vastlopen.
+> - User-testing -> feedback -> beter design voor gebruikers
 
 ---
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-_Instructie:_
-
-- Noteer in 1 zin hoe je je voelt.
-- Voeg een kleur of symbool toe dat je stemming weergeeft (bijv. een donderwolk bij boosheid of een happy smiley als je tevreden bent).
+- Ik ben vandaag blij van mijn werk, ik was productief en voor het code ging het vlot er was geen probleem.
+- Ik wil gewoon de vertaling van data van javascript goed willen vertalen maar ben op de antwoord van de leerkracht aan het wachten
 
 > **Algmeeen gevoel:**
 >
 > - **"Blij"** :smiley:
-> - **"Gefrustreerd"** :zap:
+> - **"Ongeduldig"** :zap:
 
 ---
-
-_Kopieer dit sjabloon voor je volgende dagen en pas de antwoorden telkens aan!_
