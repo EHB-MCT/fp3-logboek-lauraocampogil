@@ -33,6 +33,6 @@
 
 > **Algmeeen gevoel:**
 >
-> - **"Fier"** :smiley:
+> - **"Fier"** 
 
 ---
