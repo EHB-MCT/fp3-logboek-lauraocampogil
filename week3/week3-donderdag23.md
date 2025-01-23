@@ -8,15 +8,10 @@
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
-_Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 
 - Benoem de exacte onderdelen of bestanden waar je wijzigingen in hebt doorgevoerd (bijv. “In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).”).
 - Als je iets samen met een teamgenoot hebt gemaakt, vermeld dit er duidelijk bij.
 
-> **Activiteiten:**
->
-> - In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).
-> - Samen met [naam teamgenoot] de filterfunctionaliteit in `projects.js` opgezet om alleen lopende projecten te tonen.
 
 ---
 
